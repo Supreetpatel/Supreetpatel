@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Supreet Ptel</h1>
 <h3 align="center">A passionate frontend developer and a data scientist from India</h3>
 
-- 🌱 I’m currently learning **NEXT.JS &Django**
+- 🌱 I’m currently learning **NEXT.JS & Django**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React,NEXTT.JS**
 
 - 📫 How to reach me **supreetpatel2004@gmail.com**
 
