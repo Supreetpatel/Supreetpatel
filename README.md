@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NEXT.JS & Django**
 
-- 💬 Ask me about **React,NEXTT.JS**
+- 💬 Ask me about **REACT.JS,NEXT.JS**
 
 - 📫 How to reach me **supreetpatel2004@gmail.com**
 
