@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Supreet PAtel</h1>
+<h1 align="center">Hi 👋, I'm Supreet Patel</h1>
 <h3 align="center">A passionate frontend developer and a data scientist from India</h3>
 
 - 🌱 I’m currently learning **NEXT.JS & Django**
