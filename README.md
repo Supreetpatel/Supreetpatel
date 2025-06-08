@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Supreet Kumar Patel from Rourkela, Odisha<br><br>- 🔭 I’m working as KwickSwap and Leet-track<br>- 📚 I'm currently learning Golang and java<br>- ⚡ In my free time I like to ride bicycle</p>
+<p align="left">I'm Supreet Kumar Patel from Rourkela, Odisha<br><br>- 🔭 I’m working on KwickSwap and Leet-track<br>- 📚 I'm currently learning Golang and java<br>- ⚡ In my free time I like to ride bicycle</p>
 
 ###
 
